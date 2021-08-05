@@ -1,0 +1,16 @@
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsArraylist\bin\Debug\net5.0\collectionsArraylist.exe
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsArraylist\bin\Debug\net5.0\collectionsArraylist.deps.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsArraylist\bin\Debug\net5.0\collectionsArraylist.runtimeconfig.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsArraylist\bin\Debug\net5.0\collectionsArraylist.runtimeconfig.dev.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsArraylist\bin\Debug\net5.0\collectionsArraylist.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsArraylist\bin\Debug\net5.0\ref\collectionsArraylist.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsArraylist\bin\Debug\net5.0\collectionsArraylist.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsArraylist\obj\Debug\net5.0\collectionsArraylist.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsArraylist\obj\Debug\net5.0\collectionsArraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsArraylist\obj\Debug\net5.0\collectionsArraylist.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsArraylist\obj\Debug\net5.0\collectionsArraylist.AssemblyInfo.cs
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsArraylist\obj\Debug\net5.0\collectionsArraylist.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsArraylist\obj\Debug\net5.0\collectionsArraylist.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsArraylist\obj\Debug\net5.0\ref\collectionsArraylist.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsArraylist\obj\Debug\net5.0\collectionsArraylist.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsArraylist\obj\Debug\net5.0\collectionsArraylist.genruntimeconfig.cache
